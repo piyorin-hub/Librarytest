@@ -1,0 +1,2 @@
+# LibraryTest
+Pythonの外部ライブラリでいろいろやってみた
